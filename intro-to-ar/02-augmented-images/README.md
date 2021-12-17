@@ -6,6 +6,10 @@ A project made for displaying a 3D model on detected image using ARCore.
 - how to configure prefab to be displayed on an image
 
 #### Some screenshots
-<img src="01-first-part-first-line.png" width="250"/>
-<em>First progress picture after uncommenting the first line of code in the first part.</em>
+<img src="app-example.jpg" width="200"/>
+<em>Screenshot of the built app.</em>
 <br><br>
+
+<img src="app-example.gif" width="200"/>
+<em>A gif animation showing how the app works.</em>
+

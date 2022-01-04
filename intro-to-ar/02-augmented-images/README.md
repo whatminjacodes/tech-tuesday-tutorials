@@ -12,4 +12,3 @@ A project made for displaying a 3D model on detected image using ARCore.
 
 <img src="app-example.gif" width="200"/>
 <em>A gif animation showing how the app works.</em>
-

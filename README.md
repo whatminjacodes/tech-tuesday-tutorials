@@ -1,5 +1,5 @@
 # tech-tuesday-tutorials
-A repository for tutorials I have made in my Tech Tuesday series. I introduce a new topic on my Instagram every Tuesday.
+A repository for tutorials I have made in my Tech Tuesday series. I introduce a new topic on my Instagram every Tuesday. The tutorials will be published on my blog [dev.to/whatminjacodes](https://dev.to/whatminjacodes)
 
 ### Topics
 #### 1. Intro to Augmented Reality
